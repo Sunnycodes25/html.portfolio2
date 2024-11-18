@@ -1,0 +1,31 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.gradient-background {
+    margin:0;
+    height: 100%;
+    background: linear-gradient(300deg, #00bfff, #ff4c, #ef8172);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+
+.s{
+height: 200px;
+width: 200px;
+border-radius: 50%;
+text-align: center;
+align-items: center;
+align-content: center
+}
+
+body{
+    text-align: center;
+    display: block;
+}
+
+ul{
+    list-style: none;
+}
